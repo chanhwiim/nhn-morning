@@ -1,3 +1,5 @@
+package day0906;
+
 public class Main {
 
     private static final String[] TEST_CASE_KEYS = {
